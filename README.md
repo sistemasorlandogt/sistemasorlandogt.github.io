@@ -1,1 +1,18 @@
-# sistemasorlandogt.github.io
+# 🚀 Mi Portfolio Web está en Construcción
+
+Hola! 👋 Soy **Orlando Cabrera**, desarrollador web apasionado por crear experiencias digitales modernas y eficientes.  
+
+Actualmente estoy trabajando en mi **portfolio web**, donde podrás ver mis proyectos, habilidades y contribuciones a la tecnología.
+
+## ⚡ Qué esperar próximamente
+- 💻 Proyectos **full-stack** con tecnologías modernas: JavaScript, Node.js, Angular, React.  
+- 🌐 Interfaces interactivas y responsive.  
+- 🛠️ Integración de APIs, bases de datos y automatización.  
+- 🎨 Diseño limpio, accesible y profesional.  
+
+---
+
+### 🔧 Estado actual:
+```text
+[=======             ] 50% Complete
+Construyendo un entorno web futurista...
