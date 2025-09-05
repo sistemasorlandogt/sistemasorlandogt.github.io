@@ -13,6 +13,5 @@ Actualmente estoy trabajando en mi **portfolio web**, donde podrás ver mis proy
 ---
 
 ### 🔧 Estado actual:
-```text
-[=======             ] 50% Complete
+![Progreso](https://img.shields.io/badge/Progreso-50%25-yellowgreen)
 Construyendo un entorno web futurista...
